@@ -1,1 +1,1 @@
-# prime-number
+# prime number in given range
